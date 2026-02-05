@@ -87,8 +87,9 @@ QRPOSApp/
 - Maven installed
 - Git (optional, for cloning)
 
+<img width="1076" height="642" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/4f005c22-e2d2-45bc-ac1c-6574b48909ad" />
+
 ### Run with Maven
 ```bash
 mvn clean compile
 mvn exec:java
-<img width="1076" height="642" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/4f005c22-e2d2-45bc-ac1c-6574b48909ad" />
