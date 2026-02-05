@@ -49,24 +49,7 @@ This project is designed to simulate a **real-world retail / POS workflow** usin
 - **QR Preview** – generated QR image
 - **Label Preview** – final printable label
 
----
-
-## 🗂 Project Structure
-
-QRPOSApp/
-├── pom.xml
-├── README.md
-├── pos.db
-└── src/
-└── main/
-├── java/
-│ └── et/qrscanner/app/
-│ ├── Main.java
-│ ├── Database.java
-│ ├── Product.java
-│ └── LabelPrinter.java
-└── resources/
-
+<img width="1076" height="642" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/04624312-a697-43fb-aecb-62247a25cbd1" />
 
 ---
 
@@ -86,8 +69,6 @@ QRPOSApp/
 - Java JDK installed
 - Maven installed
 - Git (optional, for cloning)
-
-<img width="1076" height="642" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/4f005c22-e2d2-45bc-ac1c-6574b48909ad" />
 
 ### Run with Maven
 ```bash
