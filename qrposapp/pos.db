@@ -1,0 +1,10 @@
+CREATE TABLE products (
+    qr_code TEXT PRIMARY KEY,
+    name TEXT NOT NULL,
+    price TEXT
+);
+
+INSERT INTO products(qr_code,name,price) VALUES
+('QR001','Plant A','500'),
+('QR002','Plant B','750'),
+('QR003','Plant C','1200');
