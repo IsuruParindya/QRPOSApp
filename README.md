@@ -70,6 +70,8 @@ This project is designed to simulate a **real-world retail / POS workflow** usin
 - Maven installed
 - Git (optional, for cloning)
 
+## Bug Fix (Done)
+
 ### Run with Maven
 ```bash
 mvn clean compile
